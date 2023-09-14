@@ -1,0 +1,27 @@
+
+u
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΊΙ8Ότέ§1
+{
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(οϊώΔώÿÿÿÿ8Ότέ§1
+w
+java:S2293β"YReplace the type specification in this constructor call with the diamond operator ("<>").(…βτ8‹Ότέ§1
+w
+java:S2293ϊ"YReplace the type specification in this constructor call with the diamond operator ("<>").(…βτ8‹Ότέ§1
+w
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(…βτ8Ότέ§1
+t
+java:S1192\"RDefine a constant instead of duplicating this literal "Node containing {" 4 times.(“¦Κωÿÿÿÿ8Ότέ§1
+q
+java:S1192"TDefine a constant instead of duplicating this literal "Data cannot be null" 4 times.(Ί›ΝΝ8Ότέ§1
+w
+java:S1192]"UDefine a constant instead of duplicating this literal "} could not be found" 4 times.(‘£·λϊÿÿÿÿ8Ότέ§1
+7
+java:S1220""Move this file to a named package.8φΪϊέ§1
+g
+java:S2583ο"DChange this condition so that it does not always evaluate to "false"(Χ•νΙώÿÿÿÿ8ΝΌτέ§1
+n
+java:S1206η"PThis class overrides "equals()" and should therefore also override "hashCode()".(°Ρµ8ΟΌτέ§1
+t
+java:S3776z"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦ΖΎΠϊÿÿÿÿ8έΌτέ§1
+_
+java:S1128"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿιϊÿÿÿÿ8ΐΝΑ³¨1
